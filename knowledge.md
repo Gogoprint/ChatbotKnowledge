@@ -21,4 +21,4 @@ This section contains knowledge about backdrops sold by Gogoprint.
 
 - Width: 100cm
 - Height: 230cm
-- Price: 5,200 THB
+- Price: 5,200 THB (excl. VAT, excl. shipping)
